@@ -60,6 +60,15 @@
 
 ---
 
+## 🎓 Образование
+
+- В настоящий момент обучаюсь в ВУЗе на IT направлении
+- Skillbox — курс по React  
+  Сертификат: https://disk.yandex.ru/i/SE7dbTWqBuPmdg
+- Skillbox — курс по TypeScript 
+
+---
+
 ## Контакты
 
 - Telegram: https://t.me/Gremlin_O  
