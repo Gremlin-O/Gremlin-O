@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Привет!
 
-<!--
-**Gremlin-O/Gremlin-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Иван Дьяченко** — я фронтенд-разработчик, активно развиваюсь в этой области и стремлюсь создавать качественные, удобные и масштабируемые веб-приложения.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологический стек
+
+- React  
+- Next.js  
+- TypeScript  
+- HTML5 / CSS3  
+- Tailwind CSS  
+- Redux Toolkit  
+- Zustand  
+
+---
+
+## Опыт
+
+- Выполнял **фриланс-заказы** различной сложности:
+  - верстка интерфейсов  
+  - разработка полноценных приложений на Next.js  
+
+- Принимал участие в:
+  - конференциях  
+  - кейс-чемпионатах  
+
+Работал как самостоятельно, так и в команде, что позволило развить навыки коммуникации, планирования и командной разработки.
+
+---
+
+## Пет-проекты
+
+### Anon Vote — сервис анонимных опросов  
+🔗 https://github.com/Gremlin-O/anon-vote-frontend  
+
+Фуллстек-приложение для создания и проведения анонимных опросов.
+
+---
+
+### Color Lines  
+🔗 https://github.com/Gremlin-O/color-lines  
+
+Реализация классической игры «Шары в ряд» с современной архитектурой и игровыми механиками.
+
+---
+
+### Wink Challenge  
+🔗 https://github.com/temameta/Wink_challenge  
+
+Проект, выполненный в рамках кейс-чемпионата.
+
+---
+
+##  О себе
+
+Я стремлюсь к постоянному развитию, изучаю новые технологии и подходы, уделяю внимание качеству кода, архитектуре и пользовательскому опыту.  
+Интересуюсь как визуальной частью интерфейсов, так и внутренней логикой приложений.
+
+---
+
+## Контакты
+
+- Telegram: https://t.me/Gremlin_O  
+- Email: mailto:ivandacenko286@gmail.com  
