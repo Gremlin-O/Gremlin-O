@@ -53,7 +53,7 @@
 
 ---
 
-### Wink Challenge  
+### Pomodoro 
 🔗 https://github.com/Gremlin-O/Pomodoro
 
 Проект, выполненный в рамках итоговой работы по курсу Skillbox.
